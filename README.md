@@ -12,3 +12,10 @@ EMAIL_FROM_HOST=smtp.gmail.com
 EMAIL_FROM_PORT=587  
 
 You can change these settings as you wish, but I cannot guarantee that it will work if changed.
+
+### Installing Node Modules:
+Open API and APP 2. In each of these files, run the command:
+
+$ npm install
+
+You must have NodeJS for this. Install here: https://nodejs.org/en/
