@@ -14,8 +14,17 @@ EMAIL_FROM_PORT=587
 You can change these settings as you wish, but I cannot guarantee that it will work if changed.
 
 ### Installing Node Modules:
-Open API and APP 2. In each of these files, run the command:
+Open API and APP. In each of these files, run the command:
 
 $ npm install
 
 You must have NodeJS for this. Install here: https://nodejs.org/en/
+
+### Running the Website:
+Go into the API, type in the terminal:
+
+$ npm start
+
+Go into the APP, type in the terminal:
+
+$ npm start
